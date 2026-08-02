@@ -5,5 +5,7 @@
 }
 
 body{
-    background-image: url("https://github.com/gustavoguanabara/html-css/blob/master/imagens/mascote.png");
+    background-image: url("../img/pattern001.png");
+    background-repeat: no-repeat;
+    font-size: 100px 100px;
 }
