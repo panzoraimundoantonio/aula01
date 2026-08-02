@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url("../img/wallpaper003.jpg");
+}
+.quadrado{
+    display: inline-block;
+    border-radius: 10px;
+    background-color: rgba(128, 128, 128, 0.388);
+    width: 300px;
+    height: 300px;
+    margin: 5px;
+}
+#q1{
+    background-image: url("../img/pattern001.png");
+}
+#q2{
+    background-image: url("../img/pattern004.png");
+}
+#q3{
+    background-image:url("../img/wallpaper002.jpg");
+}
