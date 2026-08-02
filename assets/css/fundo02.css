@@ -6,6 +6,6 @@
 
 body{
     background-image: url("../img/pattern001.png");
-    background-repeat: no-repeat;
+    background-repeat: repeat-x;
     font-size: 100px 100px;
 }
